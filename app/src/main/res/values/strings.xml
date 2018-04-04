@@ -7,6 +7,9 @@
     <string name="TimeofEvent">Time </string>
     <string name="SaveReminder">Save Reminder </string>
     <string name="Calendar">Calendar</string>
+    <string name="Today">"Today's" Events</string>
+    <string name="Month">Month</string>
+    <string name="Year">Year</string>
 
 
 </resources>

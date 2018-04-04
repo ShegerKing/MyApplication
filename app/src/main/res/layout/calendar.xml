@@ -32,7 +32,7 @@
     </android.support.design.widget.AppBarLayout>
 
     <include
-        layout="@layout/content_main"
+        layout="@layout/calendar_content"
         android:layout_width="210dp" />
 
     <android.support.design.widget.FloatingActionButton
