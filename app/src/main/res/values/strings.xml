@@ -1,4 +1,12 @@
 <resources>
     <string name="app_name">My Application</string>
     <string name="action_settings">Settings</string>
+    <string name="Add_Reminder">Add reminder</string>
+    <string name="Event_Name"> Event: </string>
+    <string name="DayOfEvent">Day </string>
+    <string name="TimeofEvent">Time </string>
+    <string name="SaveReminder">Save Reminder </string>
+    <string name="Calendar">Calendar</string>
+
+
 </resources>
