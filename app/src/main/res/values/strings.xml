@@ -10,6 +10,10 @@
     <string name="Today">"Today's" Events</string>
     <string name="Month">Month</string>
     <string name="Year">Year</string>
+    <string name="title_activity_hamburger_icon">hamburger_icon</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
 
 
 </resources>
