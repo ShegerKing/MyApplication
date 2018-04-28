@@ -29,28 +29,21 @@
             android:ellipsize="end"
             android:maxLines="2"
             android:layout_height="wrap_content"
-            android:textColor="@color/abc_primary_text_material_dark"
             tools:text="Title"
             android:textSize="16dp"/>
 
         <TextView
             android:id="@+id/recycle_time"
             android:layout_width="match_parent"
-            android:ellipsize="marquee"
-            android:singleLine="true"
             android:layout_height="wrap_content"
             android:textSize="13dp"
-            android:textColor="@color/abc_secondary_text_material_dark"
             tools:text="Time"/>
 
         <TextView
             android:id="@+id/recycle_date"
             android:layout_width="match_parent"
-            android:ellipsize="marquee"
-            android:singleLine="true"
             android:layout_height="wrap_content"
             android:textSize="13dp"
-            android:textColor="@color/abc_secondary_text_material_dark"
             tools:text="Date "/>
 
 

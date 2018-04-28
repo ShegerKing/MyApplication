@@ -35,6 +35,7 @@ import java.util.List;
  *   let me know and I will do it myself
  *   Improve on the ADDReminder Layout UI( looks a bit clunky at the moment
  *   Add any additional item of your liking!
+ *   I hardcoded most of the strings, it would be nice if you guys can remove some of them
  *
  *
  *
