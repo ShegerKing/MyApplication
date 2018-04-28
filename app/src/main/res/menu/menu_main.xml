@@ -1,15 +1,19 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    tools:context="com.example.beakaltiliskew.myapplication.MainActivity">
+    tools:context="com.example.android.assignment5android8.AddUserActivity">
     <item
-        android:id="@+id/action_settings"
+        android:id="@+id/Setting"
+        android:title="setting"
+        android:icon="@drawable/ic_build_black_24dp"
+        android:orderInCategory="101"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/clearDatabase"
+        android:title="Clear"
+        android:icon="@drawable/ic_delete_white_24dp"
         android:orderInCategory="100"
-        android:title="@string/action_settings"
-        app:showAsAction="never" />
-
+        app:showAsAction="ifRoom" />
 </menu>
-
-
-
 

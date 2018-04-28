@@ -4,63 +4,66 @@ package com.example.beakaltiliskew.myapplication;
  * Created by Beakal Tiliskew on 4/11/2018.
  */
 
+//A reminder class
 public class Reminder {
 
 
-        private int IDt;
-        private String Titlet;
-        private String Datet;
-        private String Timet;
+        private int myID;
+        private String myTitle;
+        private String myDate;
+        private String myTime;
 
 
 
         public Reminder(int ID, String Title, String Date, String Time){
-            IDt = ID;
-            Titlet = Title;
-            Datet = Date;
-            Timet = Time;
+            myID = ID;
+            myTitle = Title;
+            myDate = Date;
+            myTime = Time;
 
         }
 
         public Reminder(String Title, String Date, String Time){
-            Titlet = Title;
-            Datet= Date;
-            Timet = Time;
+
+            myTitle = Title;
+            myDate = Date;
+            myTime  = Time;
 
         }
+
 
         public Reminder(){}
 
         public int getID() {
-            return IDt;
+            return myID;
         }
 
         public void setID(int ID) {
-            ID = IDt;
+            myID = ID;
         }
 
         public String getTitle() {
-            return Titlet;
+            return myTitle;
         }
 
         public void setTitle(String title) {
-            Titlet = title;
+            myTitle = title;
         }
 
         public String getDate() {
-            return Datet;
+            return myDate;
         }
 
         public void setDate(String date) {
-            Datet = date;
+            myDate = date;
         }
 
         public String getTime() {
-            return Timet;
+            return myTime;
         }
 
         public void setTime(String time) {
-            Timet = time;
+            myTime= time;
         }
 
     }

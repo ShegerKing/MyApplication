@@ -13,6 +13,8 @@ public class contract {
 
     }
 
+    //REMINDER CONTRACT
+
     public static class infoEntry implements BaseColumns {
         public static final String TABLE_NAME = "reminderInfo";
         public static final String COLUMN_ID = "id";
